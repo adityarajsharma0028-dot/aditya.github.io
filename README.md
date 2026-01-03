@@ -33,12 +33,12 @@ I am interested in web development and building strong programming fundamentals.
 ---
 
 ## 🔗 Live Website
-👉 https://adityarajsharma0028-dot.github.io/
+👉 https://adityarajsharma0028-dot.github.io/aditya.github.io/
 
 ---
 
 ## 📫 Contact
-- Email: aditya.kumar@gmail.com  
+- Email: adityarajsharma0028@gmail.com 
 - Location: India
 
 ---
