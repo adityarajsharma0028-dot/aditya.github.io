@@ -1,41 +1,53 @@
-# aditya.github.io
-First-year B.Tech CSE student learning HTML and C programming. Interested in web development.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Portfolio</title>
-</head>
-<body>
-    <u><h2>About me</h2></u>
-    <p>I am a motivated B.Tech CSE first-year student with a strong interest in programming and web development.
-I have basic knowledge of C and HTML and I am continuously learning new technical skills.
-My goal is to become a skilled software engineer and work on real-world projects.</p>
-<u><h2>Education</h2></u>
-<ul>
-    <li><b>Btech in Computer Science Engineering(1st year)</b><br>IILM University, Greator Noida<br>2025-present
-    </li>
-    <br>
-    <li><b>Higher Secondary (12th)</b><br>CBSE Board
-    </li>
-    <br>
-    <li><b>Secondary School (10th)</b><br>CBSE Board
-    </li>
-</ul>
-<u><h2>Skills</h2></u>
-<ul>
-    <li>C Programming(basic)</li>
-    <li>Html</li>
-    <li>Problem Solving</li>
-</ul>
-<u><h2>Contact Info</h2></u>
-<p><b>Name:</b>Aditya Raj Sharma</p>
-<p><b>Email id:</b><a href="malito:adityarajsharma0028@gmail.com">adityarajsharma0028@gmail.com</a></p>
-<p><b>Mobile number:</b><a href="tel:+918109436085">+918109436085</a></p>
-<u><h2>projects</h2></u>
-<a href="resume.html">
-  <button>View My Resume</button>
-</a>
-</body>
-</html>
+# 🌐 Personal Portfolio Website
+
+This is my personal portfolio website created using **HTML**.  
+It showcases my education, skills, projects, and contact information.
+
+---
+
+## 👨‍🎓 About Me
+I am a **B.Tech Computer Science Engineering (CSE) 1st-year student**.  
+I am currently learning **HTML, C programming, and Python**.  
+I am interested in web development and building strong programming fundamentals.
+
+---
+
+## 🛠️ Technologies Used
+- HTML5
+
+---
+
+## 📂 Sections Included
+- About Me
+- Education
+- Skills
+- Projects
+- Contact Information
+
+---
+
+## 📌 Projects
+- Personal Portfolio Website
+- Simple Resume Webpage
+
+---
+
+## 🔗 Live Website
+👉 https://adityarajsharma0028-dot.github.io/
+
+---
+
+## 📫 Contact
+- Email: aditya.kumar@gmail.com  
+- Location: India
+
+---
+
+## 🚀 Future Improvements
+- Add CSS for better design
+- Make website responsive
+- Add more projects
+
+---
+
+⭐ Feel free to explore my portfolio and give feedback!
